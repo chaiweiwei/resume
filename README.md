@@ -12,7 +12,7 @@
  - 本科/浙江传媒学院/新媒体学院/网络工程专业
  - 工作年限：1年半
  - 技术博客：http://chaiweiwei.github.io 
- - Github: https://github.com 
+ - Github: https://github.com/chaiweiwei 
 
  - 期望职位：iOS开发程序员
  - 期望薪资：税前月薪12k~15k
