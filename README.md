@@ -1,7 +1,7 @@
 # 联系方式
 
-- 手机：18158223857 
-- Email：1119191759@qq.com 
+- 手机：18158223857
+- Email：1119191759@qq.com
 - QQ/微信号：1119191759(QQ)
 
 ---
@@ -11,8 +11,8 @@
  - 女/1993
  - 本科/浙江传媒学院/新媒体学院/网络工程专业
  - 工作年限：1年半
- - 技术博客：http://chaiweiwei.github.io 
- - Github: https://github.com/chaiweiwei 
+ - 技术博客：http://chaiweiwei.github.io
+ - Github: https://github.com/chaiweiwei
 
  - 期望职位：iOS开发程序员
  - 期望薪资：税前月薪12k~15k
@@ -80,15 +80,15 @@
 以下均为我熟练使用的技能
 
 - Web开发：
-
-  学过一点PHP，我主要是想应用在上线新的JS补丁时，修改版本号，或者一些简单的字段传输，这样不需要频繁打扰PHP开发者，自己的主动性也高一点。
+学过一点PHP，我主要是想应用在上线新的JS补丁时，修改版本号，或者一些简单的字段传输，这样不需要频繁打扰PHP开发者，自己的主动性也高一点。
 - 自动布局：iOS7 Autolayout、iOS8 UIStackView、iOS9 Size classes
 - 常用第三方库：
 
   AFNetworking、JSONKit、Mantle、Masonry、MBProgressHUD、pop、Reachability、RongCloudIMKit、SSZipArchive、TTTAttributedLabel、YYWebImage、WebViewJavascriptBridge、JSPatch
 
+- 熟悉框架:UIKit、QuartzCore:核心动画处理，和CoreGraphics搭配使用制作一些2D绘图
 - 数据库相关：SQLiteManager
-- 脚本：shell
+- 脚本：shell:有时候需要批量处理info.plist文件
 - 版本管理、文档和自动化部署工具：Git、cocoapods
 
 ---
