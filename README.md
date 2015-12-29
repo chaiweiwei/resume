@@ -1,18 +1,19 @@
 # 联系方式
 
-- 手机：18158223857 
-- Email：1119191759@qq.com 
+- 姓名：柴微微
+- 手机：18258223857
+- Email：1119191759@qq.com
 - QQ/微信号：1119191759(QQ)
 
 ---
 
 # 个人信息
 
- - 女/1993
+ - 柴微微/女/1993
  - 本科/浙江传媒学院/新媒体学院/网络工程专业
  - 工作年限：1年半
- - 技术博客：http://chaiweiwei.github.io 
- - Github: https://github.com/chaiweiwei 
+ - 技术博客：http://chaiweiwei.github.io
+ - Github: https://github.com/chaiweiwei
 
  - 期望职位：iOS开发程序员
  - 期望薪资：税前月薪12k~15k
@@ -37,7 +38,7 @@
 要说最自豪的技术细节的话，应该是我在浏览国内外优秀UI效果时，会主动向产品反应是否可以增加到我们的App中，增强用户体验。我对动画方面比较热衷，但是学习的知识点比较片面，只能不断的学习来丰富自己的动画技巧。
 
 
-## 杭州乐导科技有限公司 （ 2014年6月 ~ 2012年11月 ）
+## 杭州乐导科技有限公司 （ 2014年6月 ~ 2014年11月 ）
 
 ### 国瑞金融项目
 当时还是实习生，接触的第一个公司项目就是国瑞金融，印象最深刻的就是用UICollectionView就能完成的cell样式，还是用的UITableView,一个cell中装2个button。我每到一个公司的习惯就是一定要看一下源代码的编写习惯，我喜欢学习原作者的编码习惯（在编码优雅的前提下），然后按照他的风格继续写，我在此项目中负责的是小弟的工作。在前辈分配工作后，查看源码是否有相似的功能，如果有，借鉴和修改，如果没有，就自己写，遇到网上也不能解决的问题或者时间推延太久的情况下再问前辈，和我同时期的运营实习同学和我说，就看到我一个人在那边折腾了。我认为我在那段时间编码速度方面是成长较快的，因为是项目外包公司，对工作的安排比较紧，久而久之自己的速度也潜移默化的提上去了，但是因为工作比较重复，很容易有短板。
@@ -80,15 +81,15 @@
 以下均为我熟练使用的技能
 
 - Web开发：
-
-  学过一点PHP，我主要是想应用在上线新的JS补丁时，修改版本号，或者一些简单的字段传输，这样不需要频繁打扰PHP开发者，自己的主动性也高一点。
+学过一点PHP，我主要是想应用在上线新的JS补丁时，修改版本号，或者一些简单的字段传输，这样不需要频繁打扰PHP开发者，自己的主动性也高一点。
 - 自动布局：iOS7 Autolayout、iOS8 UIStackView、iOS9 Size classes
 - 常用第三方库：
 
   AFNetworking、JSONKit、Mantle、Masonry、MBProgressHUD、pop、Reachability、RongCloudIMKit、SSZipArchive、TTTAttributedLabel、YYWebImage、WebViewJavascriptBridge、JSPatch
 
+- 熟悉框架:UIKit、QuartzCore:核心动画处理，和CoreGraphics搭配使用制作一些2D绘图
 - 数据库相关：SQLiteManager
-- 脚本：shell
+- 脚本：shell:有时候需要批量处理info.plist文件
 - 版本管理、文档和自动化部署工具：Git、cocoapods
 
 ---
