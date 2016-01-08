@@ -21,19 +21,37 @@
 ## 杭州帅游科技有限公司 （ 2015年3月 ~ 至今 ）
 
 ### 国家攻略项目
-我在项目中负责以子项目为基础，制作新的app，攻略以国家为一个系列（韩国攻略、泰国攻略、日本攻略），直至App上线发布。之前的工作都在主攻略这一块，没有完整的接触过发布的整个流程，这次的工作任务让我认识到我还有哪些上线前的细节铺垫没有处理好，因为有主攻略的开发基础，特别大的困难倒没有，关键还是要仔细。
 
-在这个项目中我最自豪的技术细节是我在项目中整合了JSPatch，能实现线上打热补丁的方式修复bug，不用重新上线，节省了Apple审核时间，该版本上线后1星期内打了一个需求补充补丁，功能实现完善。产品经理再也不用担心bug了！
+项目名称：日本攻略
+
+项目链接：[App Store 链接](https://itunes.apple.com/cn/app/ri-ben-lu-you-gong-e-zi-you/id1061362221?mt=8)
+
+![qgl](./image/IMG_2222.png =180x)
+
+我全面负责该国家项目的开发和维护，在这个项目中我最自豪的技术细节是我在项目中整合了JSPatch，能实现线上打热补丁的方式修复bug，不用重新上线，节省了Apple审核时间，该版本上线后1星期内打了一个需求补充补丁，功能实现完善。产品经理再也不用担心bug了！
 
 ### (主／分)求攻略项目
-我在此项目中负责在iOS项目主管的带领下，完成每期项目改版的部分功能，我从三月份入职至今，已经大部分的接手(主／分)攻略项目，项目的改版、bug修复、上线等都出上了一份力。我认为在我将近一年的学习工作中成长较快，并得到了主管的认可，工作中要做到：快中有细
+
+项目名称：求攻略自由行
+
+项目链接：[App Store 链接](https://itunes.apple.com/cn/app/qiu-gong-e-zi-you-xing-bi/id674339177?mt=8)
+
+![qgl](./image/IMG_2221.png =180x)
+
+该项目是公司的产品，产品后期由我对需求和维护进行跟进。
+
+维护方面主要针对“聊天”功能的对接，确保用户聊天信息的畅通，还有对攻略资源分享到用户的对话、群聊天、微信等第三方进行维护。偶尔发现线上bug，使用JSPatch及时修复.
+
+新增需求包括,对攻略poi页面样式改版，目的地页面改版，新增酒店booking功能
+
+![](./image/IMG_2223.png =180x)
+![](./image/IMG_2224.png =180x)
+
+工作中有做到：快中有细
 
   1. 尽力实现产品提出的需求，并从用户的角度做好用户体验。
   2. 仔细分析设计提供的设计效果图，1px的误差也要拎出来。
   3. 开发过程或者平时使用中对App有用户使用方面的需求或者建议及时向产品提出。
-
-我对动画方面比较热衷，但是学习的知识点比较片面，只能不断的学习来丰富自己的动画技巧。
-
 
 ## 杭州乐导科技有限公司 （ 2014年6月 ~ 2014年11月 ）
 
@@ -58,6 +76,30 @@
 
 代码：[@vikit code](https://github.com/chaiweiwei/real_Vikit)
 
+# 技能清单
+
+以下均为我熟练使用的技能
+
+- Web开发：
+学过一点PHP，我主要是想应用在上线新的JS补丁时，修改版本号，或者一些简单的字段传输，这样不需要频繁打扰PHP开发者，自己的主动性也高一点。
+- 自动布局：iOS7 Autolayout、iOS8 UIStackView、iOS9 Size classes
+- 布局：善于使用UITableView、UICollectionView来进行页面的多样布局，基于xib或纯代码描述cell
+- UI:具有良好的布局逻辑思维，熟练使用UIKit提供的多个控件的API，在展现良好前端效果的同时，有良好的**多线程**使用习惯，确保**用户体验**的流畅与App性能的提升
+- **资源缓存**：善于使用NSUserDefault、plist文件、SQLiteManager轻量数据库针对应用资源进行缓存，提高用户在暂时离线情况下的用户体验。
+- 控件封装与coding优雅：代码风格优雅，对常用的控件以及样式善于整理与封装，避免重复冗余代码，
+- 常用第三方库：
+
+  AFNetworking、JSONKit、**Mantle**、Masonry、MBProgressHUD、**pop**、Reachability、RongCloudIMKit、SSZipArchive、TTTAttributedLabel、YYWebImage、WebViewJavascriptBridge、**JSPatch**
+  
+- 消息通知：项目中使用到部分ReactiveCocoa，主要使用NSNotificationCenter或者KVO机制，代理delegate
+
+- 熟悉框架:UIKit、QuartzCore:核心动画处理，和CoreGraphics搭配使用制作一些2D绘图
+- 数据库相关：SQLiteManager
+- 脚本：shell:有时候需要批量处理info.plist文件
+- 版本管理、文档和自动化部署工具：Git、cocoapods，有良好的团队开发习惯,避免 出现代码冲突。
+
+---
+
 ## 工作之余学习网站
 
  - [goolge](https://google.com) : 工作中用Google搜索能收到更多的内容
@@ -76,23 +118,13 @@
 - [react native](https://facebook.github.io/react-native/):学习基于 JavaScript 的开源框架
 - [JSPatch](https://github.com/bang590/JSPatch/wiki):最近在接触该项技术，写JS的时候要常翻，能找到自己忽略的一些细节
 
-# 技能清单
 
-以下均为我熟练使用的技能
+# 在校情况
 
-- Web开发：
-学过一点PHP，我主要是想应用在上线新的JS补丁时，修改版本号，或者一些简单的字段传输，这样不需要频繁打扰PHP开发者，自己的主动性也高一点。
-- 自动布局：iOS7 Autolayout、iOS8 UIStackView、iOS9 Size classes
-- 常用第三方库：
+- 多次获得二等、三等奖学金、三好学生
+- 喜爱参加社会志愿与实践活动
+- 大三期间有半年台湾交换学习的经历
 
-  AFNetworking、JSONKit、Mantle、Masonry、MBProgressHUD、pop、Reachability、RongCloudIMKit、SSZipArchive、TTTAttributedLabel、YYWebImage、WebViewJavascriptBridge、JSPatch
-
-- 熟悉框架:UIKit、QuartzCore:核心动画处理，和CoreGraphics搭配使用制作一些2D绘图
-- 数据库相关：SQLiteManager
-- 脚本：shell:有时候需要批量处理info.plist文件
-- 版本管理、文档和自动化部署工具：Git、cocoapods
-
----
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
