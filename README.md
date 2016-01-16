@@ -82,10 +82,11 @@
 
 - Web开发：
 学过一点PHP，我主要是想应用在上线新的JS补丁时，修改版本号，或者一些简单的字段传输，这样不需要频繁打扰PHP开发者，自己的主动性也高一点。
-- 自动布局：iOS7 Autolayout、iOS8 UIStackView、iOS9 Size classes
+- **性能优化**：注重用户体验界面流畅性和app的性能优化，使用**AsyncDisplayKit**对部分需要提高交互性能的模块进行优化。
+- 自动布局：iOS7 Autolayout、iOS8 UIStackView、iOS9 Size classes，使用自动布局能提高开发效率，当涉及tableView或者collectionView，为了app的性能优化，还是应该尽量使用frame进行计算，稳定的同时，执行效率高，或者使用第三方如：FDTemplateLayoutCell。
 - 布局：善于使用UITableView、UICollectionView来进行页面的多样布局，基于xib或纯代码描述cell
 - UI:具有良好的布局逻辑思维，熟练使用UIKit提供的多个控件的API，在展现良好前端效果的同时，有良好的**多线程**使用习惯，确保**用户体验**的流畅与App性能的提升
-- **资源缓存**：善于使用NSUserDefault、plist文件、SQLiteManager轻量数据库针对应用资源进行缓存，提高用户在暂时离线情况下的用户体验。
+- **资源缓存**：除了基本的使用SDWebImage图像缓存外，善于使用NSUserDefault、plist文件、SQLiteManager轻量数据库针对应用资源进行缓存，提高用户在暂时离线情况下的用户体验。
 - 控件封装与coding优雅：代码风格优雅，对常用的控件以及样式善于整理与封装，避免重复冗余代码，
 - 常用第三方库：
 
@@ -114,6 +115,8 @@
 
 ## 技术学习ing
 
+- [componentkit](https://github.com/facebook/componentkit):
+- [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit):app图形性能优化
 - [swift](https://developer.apple.com/swift/blog/):主要通过书籍和demo进行详细和巩固
 - [react native](https://facebook.github.io/react-native/):学习基于 JavaScript 的开源框架
 - [JSPatch](https://github.com/bang590/JSPatch/wiki):最近在接触该项技术，写JS的时候要常翻，能找到自己忽略的一些细节
